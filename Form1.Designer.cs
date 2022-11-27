@@ -88,7 +88,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(94, 15);
             this.label1.TabIndex = 8;
-            this.label1.Text = "Password lenght";
+            this.label1.Text = "Password length";
             // 
             // button2
             // 
